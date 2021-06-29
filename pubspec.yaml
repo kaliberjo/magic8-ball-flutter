@@ -22,3 +22,10 @@ flutter:
 
   assets:
     - images/
+  fonts:
+    - family: BalooTamma2
+      fonts:
+        - asset: fonts/BalooTamma2-Regular.ttf
+    - family: BalooTamma2
+      fonts:
+        - asset: fonts/SourceSansPro-Light.ttf
